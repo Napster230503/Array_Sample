@@ -84,6 +84,10 @@ namespace ConsoleApp7
             }
 
 
+            Console.WriteLine("-----------------");
+            Console.WriteLine("Fahmi");
+            Console.WriteLine("-----------------");
+
             Console.ReadKey();
 
         }
